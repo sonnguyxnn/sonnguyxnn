@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @jferonn28
+- 👋 Hi, I’m hoangsonwwwwww (alt account of @hoangsonww)
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Discrete Math @ CSU
+- 🌱 I’m currently learning Computer Science @ UNC-Chapel Hill
 - 💞️ I’m looking to collaborate on Open-Source Projects
 - 📫 How to reach me: My Email
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: This is my first year learning Java!
 
 <!---
 jferonn28/jferonn28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
