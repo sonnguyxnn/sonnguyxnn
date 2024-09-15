@@ -1,8 +1,8 @@
-- 👋 Hi, I’m hoangsonwwwwww (alt account of @hoangsonww)
+- 👋 Hi, I’m hoangsonwwww (alt account of @hoangsonww)
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Computer Science @ UNC-Chapel Hill
-- 💞️ I’m looking to collaborate on Open-Source Projects
-- 📫 How to reach me: My Email
+- 🌱 I’m currently learning Computer Science & Economics @ UNC-Chapel Hill
+- 💞️ I’m looking to collaborate on Open-Source Projects. This alt account will be used to assist the main account @hoangsonww in helping me contribute more effectively to open-source projects across GitHub!
+- 📫 How to reach me: [hoangson091104@gmail.com](mailto:hoangson091104@gmail.com)
 - 😄 Pronouns: He/him/his
 
 <!---
